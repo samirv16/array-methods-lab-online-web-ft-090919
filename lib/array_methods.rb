@@ -1,6 +1,6 @@
 def using_include(array, element)
   
-  array.inclu
+  array.include?(element)
   
 end
 
